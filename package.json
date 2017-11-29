@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "An introductory tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackbiernat/TDD-sample.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "Zack Biernat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zackbiernat/TDD-sample/issues"
+  },
+  "homepage": "https://github.com/zackbiernat/TDD-sample#readme"
+}
